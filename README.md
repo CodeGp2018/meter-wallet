@@ -1,5 +1,5 @@
 # meter-wallet
-
+# for Windows.
 > An electron-vue project
 
 #### Build Setup with NPM
